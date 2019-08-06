@@ -1,0 +1,16 @@
+Estudiante:
+Anghelo Carvajal
+201473062-4
+
+Librerias/modulos utilizados:
+ * Jupyter notebook
+ * ipywidgets
+ * NumPy
+ * SciPy
+ * imutils
+ * opencv-python
+ * cv2
+ * Matplotlib
+ * base64
+ * time
+
